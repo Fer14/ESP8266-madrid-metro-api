@@ -2,6 +2,12 @@
 
 This project uses an ESP8266, an I2C LCD display, and the EMT Madrid public transport API to display the estimated arrival time of bus line 132 at stop 1649. The device connects to Wi-Fi, logs in to the EMT API, retrieves the next bus arrival time, and displays it on the LCD when you press a button.
 
+## Video Demo
+
+
+https://github.com/user-attachments/assets/51d3bbff-2524-49c9-bc1f-bdbab5dfcdc5
+
+
 ## Features
 
 - Wi-Fi Connectivity – Connects to your home Wi-Fi to access the EMT Madrid API.
